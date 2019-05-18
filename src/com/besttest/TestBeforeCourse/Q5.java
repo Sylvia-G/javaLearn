@@ -1,4 +1,4 @@
-package com.ExaminationQuestions;
+package com.besttest.TestBeforeCourse;
 
 //编程: 分组和遍历
 //构造一个User对象, 属性有userName, age, school

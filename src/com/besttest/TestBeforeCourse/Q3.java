@@ -1,4 +1,4 @@
-package com.ExaminationQuestions;
+package com.besttest.TestBeforeCourse;
 
 //编程: 字符串大写并反转
 //原生编程方式实现给定字符串的大写并反转

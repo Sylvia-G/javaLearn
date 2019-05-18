@@ -1,4 +1,4 @@
-package com.ExaminationQuestions;
+package com.besttest.TestBeforeCourse;
 
 //编程:星期转换
 //输入1, 输出星期一

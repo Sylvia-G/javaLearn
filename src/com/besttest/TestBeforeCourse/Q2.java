@@ -1,4 +1,4 @@
-package com.ExaminationQuestions;
+package com.besttest.TestBeforeCourse;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

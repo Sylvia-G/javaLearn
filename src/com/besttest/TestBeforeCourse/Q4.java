@@ -1,4 +1,4 @@
-package com.ExaminationQuestions;
+package com.besttest.TestBeforeCourse;
 
 //编程: 随机id生成器
 //随机id要求:
@@ -10,11 +10,6 @@ package com.ExaminationQuestions;
 //            随机数字最后一位是偶数, 则后4位用2200补齐32位
 //需考虑多线程场景
 //要求: 考虑健壮性
-
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Random;
 
 public class Q4 {
     public static void main(String[] args) {
